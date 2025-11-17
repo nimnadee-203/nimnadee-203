@@ -62,6 +62,15 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌿 Ceylon-Eco-Foods](https://github.com/nimnadee-203/Ceylon-Eco-Foods) | A MERN stack system connecting farmers, factory, and customers, allowing direct sales of raw materials and processed goods. | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) |
+| [🌸 Bloom Habit Tracker](https://github.com/nimnadee-203/Bloom-Habit-Tracker) | Android app to track daily habits, water intake, moods, journaling, reminders, and visualize progress. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android) |
+| [🚆 Lanka-Rails](https://github.com/nimnadee-203/Lanka-Rails) | Online train ticket booking system managing trains, schedules, journeys, and passenger info. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql) |
+
+---
 
 ## 📊 GitHub Analytics
 <p align="center">
