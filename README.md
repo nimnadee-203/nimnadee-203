@@ -9,8 +9,8 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **MERN stack** & improving UI/UX  
+## 🚀 About Me ✨
+- 🎓 Currently pursuing a BSc Honors in Information Technology specializing in software engineering
 - 💻 Interested in **web development**, **mobile development**, and **UI design**  
 - 🤝 Open to **collaborations** in frontend & full-stack projects  
 - 🎯 Goal: Become a strong **Software Engineer + UI/UX hybrid**  
