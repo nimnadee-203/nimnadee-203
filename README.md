@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Imeshika 👋
+I'm an IT undergraduate passionate about software development, UI/UX, and building creative digital experiences.
 
-<!--
-**nimnadee-203/nimnadee-203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently improving my skills in MERN stack & Python  
+- 💻 Interested in web apps, UI design, and backend development  
+- 🤝 Open to collaborations on web projects  
+- 🎯 Goal: Become a skilled software engineer and designer
+- 📫 Reach me on
+  Linkedin - www.linkedin.com/in/nimnadee-imeshika-58a9b6255
+  Email - nimnadeeimeshika@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
