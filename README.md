@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF66C4&center=true&vCenter=true&width=500&lines=Hi+I'm+Imeshika+✨;IT+Undergraduate;Aspiring+Software+Engineer;UI%2FUX+Lover+%F0%9F%92%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF66C4&center=true&vCenter=true&width=500&lines=Hi+I'm+Imeshika+✨;SE+Undergraduate;Aspiring+Software+Engineer;UI%2FUX+Lover+%F0%9F%92%96" />
 </h2>
 
 <p align="center">
