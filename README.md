@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF66C4&center=true&vCenter=true&width=600&lines=Hi+I'm+Imeshika+✨;Software+Engineering+Undergraduate;MERN+Stack+Developer;Software+Engineering+Intern+@+SLT" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF66C4&center=true&vCenter=true&width=600&lines=Hi+I'm+Imeshika+✨;Software+Engineering+Undergraduate;MERN+Stack+Developer;Software+Engineering+Intern" />
 </h2>
 
 <p align="center">
