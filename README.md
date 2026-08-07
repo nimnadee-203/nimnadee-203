@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF66C4&center=true&vCenter=true&width=600&lines=Hi+I'm+Imeshika+✨;Software+Engineering+Undergraduate;MERN+Stack+Developer;Software+Engineering+Intern" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF66C4&center=true&vCenter=true&width=600&lines=Hi+I'm+Imeshika+✨;Software+Engineering+Undergraduate;Full+Stack+Developer;Software+Engineering+Intern" />
 </h2>
 
 <p align="center">
@@ -16,7 +16,7 @@
 * 💼 Software Engineering Intern @ Sri Lanka Telecom (SLT)
 * 💻 MERN Stack Developer with hands-on project experience
 * ⚡ Passionate about **full-stack development & system design**
-* 🎨 Strong interest in **UI/UX (Figma + modern frontend)**
+* 🎨 Interested in **UI/UX (Figma + modern frontend)**
 * 🤝 Open to collaborations on impactful projects
 
 ---
