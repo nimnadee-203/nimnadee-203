@@ -104,11 +104,18 @@ Train ticket booking system with scheduling and passenger management.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimnadee-203&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimnadee-203&layout=compact&theme=radical" height="170"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=nimnadee-203&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nimnadee-203&layout=compact&theme=radical&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -124,4 +131,8 @@ Train ticket booking system with scheduling and passenger management.
 
 <p align="center">
   ✨ <em>Design meets Engineering — building systems that look good and scale well</em> ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
